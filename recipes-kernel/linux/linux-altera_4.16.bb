@@ -1,6 +1,6 @@
 LINUX_VERSION = "4.16"
 
-SRCREV = "0fbcbded57c6ad7f4e83c7023e64825670223d3f"
+SRCREV = "95339bdd2f35ee42d00ce5ebbd958a6732ad5b94"
 
 KBUILD_DEFCONFIG_stratix10 := "s10_devkit_defconfig"
 
